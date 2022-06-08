@@ -11,3 +11,6 @@ module.exports = ({ env }) => ({
     },
   },
 });
+
+
+// postgres://postgres:mypassword@databasegss.c6d4qw84ftau.eu-west-2.rds.amazonaws.com:5432/postgres
